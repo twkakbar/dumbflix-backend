@@ -1,4 +1,4 @@
-How to setup database :
+How to setup databases :
 - Setup database with sequelize
 - Import database dumbflix.sql
 
