@@ -1,0 +1,9 @@
+version: '3.7'
+services:
+ backend:
+   container_name: twk-be
+   build: .
+   image: be:1.0
+   stdin_open: true
+   ports:
+    - 5000:5000
